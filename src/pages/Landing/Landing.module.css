@@ -2,17 +2,17 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
     flex-wrap: wrap;
-    align-items: flex-end;
 }
 
 .title {
+    margin: 26px 0 0 735px;
     font-size: 70px;
     max-width: 295px;
 }
 
 .introduction {
+    margin: 70px 0 0 735px;
     font-size: 15px;
     max-width: 409px;
     display: flex;
